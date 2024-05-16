@@ -1,0 +1,8 @@
+.h2 {
+  display: flex;
+  justify-content: space-around;
+}
+Route {
+  display: flex;
+  justify-content: space-around;
+}
